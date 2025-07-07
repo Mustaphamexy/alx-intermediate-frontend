@@ -1,0 +1,3 @@
+I Started a new Node project to manage dependencies smoothly: npm init -y
+I Also Installed SASS locally as a development tool to style projects professionally: npm install sass --save-dev
+I also Created a setup script file called 0-installation-script to document and reuse the installation command.
